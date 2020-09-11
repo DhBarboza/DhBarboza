@@ -7,7 +7,7 @@
 
 ### :computer: :books: I'm currently learning and Technological Interests and Tools I Like:
 - Backend: **Node, Nest, Django, Flask**
-- Frontend: **Angular, React**
+- Frontend: **Angular, React, Vue.js**
 - Languages: **Python, JavaScript**
 - Tools: **VS Code, PyCharm**
 
