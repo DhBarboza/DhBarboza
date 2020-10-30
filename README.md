@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-## :smile: My name  is Douglas Henrique, I'm Software Developer Student :octocat:
-### :school_satchel: Analysis and systems development :school_satchel: [Fatec](https://fatecsjc-prd.azurewebsites.net/)
+## My name  is Douglas Henrique, I'm Software Developer Student
+### :school_satchel: Analysis and systems development [Fatec](https://fatecsjc-prd.azurewebsites.net/)
 
-### :clubs: Working in Project: :earth_americas:[Brazil Data Cube](http://brazildatacube.org/pt/pagina-inicial-2/)
+### Working in Project: :earth_americas:[Brazil Data Cube](http://brazildatacube.org/pt/pagina-inicial-2/)
 
 ### :computer: :books: I'm currently learning and Technological Interests and Tools I Like:
 - Backend: **Node, Nest, Django, Flask**
@@ -12,7 +12,7 @@
 - Tools: **VS Code, PyCharm**
 
 ### Areas of interest:
-- Data Science
+- Data Science/ Data Analytics
 - UI/UX Design
 - FullStack Developer
 
