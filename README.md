@@ -8,7 +8,8 @@
 - Backend: **Node, Express**
 - Frontend: **React, Vue.js, Shiny**
 - Languages: **Python, JavaScript, R**
-- Tools: **VS Code, PyCharm, RStudio**
+- Database: **MongoDB**
+- Tools: **VS Code, PyCharm, RStudio, NPM**
 
 ### Areas of interest:
 - Data Science/ Data Analytics
