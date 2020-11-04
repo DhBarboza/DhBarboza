@@ -10,6 +10,7 @@
 - Languages: **Python, JavaScript, R**
 - Database: **MongoDB**
 - Tools: **VS Code, PyCharm, RStudio, NPM**
+- Management: **Scrum**
 
 ### Areas of interest:
 - Data Science/ Data Analytics
