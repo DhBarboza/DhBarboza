@@ -16,3 +16,7 @@
 - UI/UX Design
 - FullStack Developer
 
+### Contact:
+- Linkedln: [Douglas Henrique](www.linkedin.com/in/developer-dhbarboza)
+- E-mail: dev.dhbarboza@gmail.com
+
