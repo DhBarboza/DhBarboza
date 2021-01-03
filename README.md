@@ -8,7 +8,7 @@
 - Backend: **Node, Express**
 - Frontend: **React, Vue.js, Shiny**
 - Languages: **Python, JavaScript, R**
-- Database: **MongoDB**
+- Database: **MySQL, MongoDB**
 - Tools: **VS Code, PyCharm, RStudio, NPM**
 - Management: **Scrum**
 
