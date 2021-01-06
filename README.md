@@ -29,9 +29,10 @@
 - Management: **Scrum**
 
 ### Areas of interest:
-- Data Science/ Data Analytics
-- UI/UX Design
 - Front-end & FullStack Developer
+- UI/UX Design
+- Data Science/ Data Analytics
+
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhBarboza&show_icons=true&count_private=true&theme=radical&hide=issues" />
