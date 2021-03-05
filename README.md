@@ -27,7 +27,7 @@
 - Management: **Scrum**
 
 ### Areas of interest:
-- Front-end & FullStack Developer
+- FullStack Developer
 - UI/UX Design
 - Data Science/ Data Analytics
 
