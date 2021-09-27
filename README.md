@@ -30,7 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhBarboza&show_icons=true&count_private=true&theme=algolia&hide=issues" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhBarboza&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhBarboza&layout=compact&theme=algolia" />
 </a>
 </p>
 
